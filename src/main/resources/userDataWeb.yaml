@@ -1,0 +1,22 @@
+environmentType:
+-  environment: STAGING
+   envUrl:  https://www.wechatify.com/
+   userType: 
+      -  userRole: ADMIN
+         userId: narottamgla@gmail.com
+         password: Singh2000
+      -  userRole: DBA
+         userId: narottamglaDBA@gmail.com
+         password: SinghDBA2000 
+      -  userRole: CUST
+         userId: manish@gmail.com
+         password: test_pass
+-  environment: DEVELOPMENT
+   envUrl:  https://www.wechatify.com
+   userType: 
+     -  userRole: CUST
+        userId: manish123@gmail.com
+        password: test_pass
+     -  userRole: ADMIN
+        userId: manish567@gmail.com
+        password: test_pass

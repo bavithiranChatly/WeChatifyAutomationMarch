@@ -1,0 +1,44 @@
+ADMIN:
+Configure Access:
+- ALL
+Page Management:
+- Draft Messages:true
+- Review Message Drafts:true
+- Messages for Translation
+- Review Message Translation
+- Approve Translated Messages
+- Library
+- Create Broadcast:true
+- Schedule Broadcast
+- Approve Broadcast:false
+- Broadcast Queue
+- Log 
+- Menu Publish:false
+- Tag Response Publish
+- FAQ Publish
+- Voucher Log
+Module Management:
+- User - Defined Menu
+- WeChat Follower and Group Management
+- User Analytics
+- Tag Statistics
+- Auto Responder
+- User Management
+- Data Binding
+- QR Code Management
+- Menu Picture Response
+- Contests Library
+- Edit Template Messages
+- Raffle 
+- SMS Store Finder
+- Referral Campaign
+- Broadcast Comments
+- Voucher Event Management
+- Membership Cards
+- SFMC Setting
+- Social Listening
+- Creatives 
+- Broadcast Configuration
+- Response Configuration
+- Custom Forms 
+- Customer Assistance-false
